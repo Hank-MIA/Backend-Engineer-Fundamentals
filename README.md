@@ -1,7 +1,7 @@
 # Backend-Engineer-Fundamentals
 A list of subjects for junior engineer to study.
 
-## - Communication Protocals
+## Communication Protocals
 1. IP, TCP, UDP, HTTP
     - https://www.khanacademy.org/computing/computers-and-internet/xcae6f4a7ff015e7d:the-internet
 2. Websocket
